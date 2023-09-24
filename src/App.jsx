@@ -90,7 +90,7 @@ const App = () => {
           <a href="https://www.frontendmentor.io?ref=challenge" target="_blank" rel="noreferrer">
             Frontend Mentor
           </a>
-          . Coded by <a href="#">Carlos Lindarte</a>.
+          . Coded by Carlos Lindarte.
         </div>
       </footer>
     </div>
